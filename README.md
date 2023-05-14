@@ -19,5 +19,8 @@ To use the application, follow these steps:
 * Start the application using npm start
 * Choose a paragraph and start the typing test
 
+# Visit
+@https://master--profound-pie-09cda6.netlify.app/
+
 # Author 
 Harsh Joshi @joshiharsh0506@gmail.com
